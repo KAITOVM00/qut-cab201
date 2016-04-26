@@ -1,0 +1,9 @@
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csprojResolveAssemblyReference.cache
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.BMI_Calculator.resources
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.Cache
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb

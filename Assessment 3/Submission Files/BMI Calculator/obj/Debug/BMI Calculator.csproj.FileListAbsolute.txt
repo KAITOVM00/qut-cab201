@@ -1,0 +1,18 @@
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csprojResolveAssemblyReference.cache
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.BMI_Calculator.resources
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.Cache
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+c:\users\tylor\documents\visual studio 2015\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+D:\Could Storgae\GiHub\qutWork\CAB201\Assessment 3\Submission Files\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+D:\Could Storgae\GiHub\qutWork\CAB201\Assessment 3\Submission Files\BMI Calculator\obj\Debug\BMI Calculator.exe
+D:\Could Storgae\GiHub\qutWork\CAB201\Assessment 3\Submission Files\BMI Calculator\obj\Debug\BMI Calculator.pdb
+D:\Could Storgae\GiHub\qutWork\CAB201\Assessment 3\Submission Files\BMI Calculator\bin\Debug\BMI Calculator.exe
+D:\Could Storgae\GiHub\qutWork\CAB201\Assessment 3\Submission Files\BMI Calculator\bin\Debug\BMI Calculator.pdb
+D:\Could Storgae\GiHub\qutWork\CAB201\Assessment 3\Submission Files\BMI Calculator\obj\Debug\BMI Calculator.csprojResolveAssemblyReference.cache
+D:\Could Storgae\GiHub\qutWork\CAB201\Assessment 3\Submission Files\BMI Calculator\obj\Debug\BMI_Calculator.BMI_Calculator.resources
+D:\Could Storgae\GiHub\qutWork\CAB201\Assessment 3\Submission Files\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+D:\Could Storgae\GiHub\qutWork\CAB201\Assessment 3\Submission Files\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.Cache
